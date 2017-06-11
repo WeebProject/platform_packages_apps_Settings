@@ -30,6 +30,14 @@
         settings:searchable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.FirmwareVersionDetailPreferenceController"/>
 
+    <!-- Weeb version -->
+    <Preference
+        android:key="weeb_version"
+        android:title="@string/weeb_version"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.WeebVersionPreferenceController"/>
+
     <!-- Security patch -->
     <Preference
         android:key="security_key"
