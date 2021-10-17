@@ -13,8 +13,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-       <!-- Weeb version -->
+    <!-- Weeb version -->
     <string name="weeb_version">WeebProject version</string>
     <string name="weeb_version_uri" translatable="false">https://github.com/WeebProject</string>
 
- </resources>
+    <!-- SELinux Status -->
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+
+</resources>
