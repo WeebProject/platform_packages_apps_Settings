@@ -21,4 +21,10 @@
     <string name="weeb_version">WeebProject version</string>
     <string name="weeb_version_uri" translatable="false">https://github.com/WeebProject</string>
 
+    <!-- SELinux Status -->
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+
 </resources>
